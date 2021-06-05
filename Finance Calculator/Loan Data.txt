@@ -1,0 +1,10 @@
+---------------------- 
+Loan Amount 20000.0
+Interest Rate : 2.0
+Number of Months :6.0
+Monthly Payment:3352.8
+---------------------- 
+Loan Amount 120000.0
+Interest Rate : 2.0
+Number of Months :1.0
+Monthly Payment:120200.0

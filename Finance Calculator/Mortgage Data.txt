@@ -1,0 +1,20 @@
+---------------------- 
+Home Price : 200000.0
+Down Payment : 1000.0
+Loan Term :243.48
+Interest Rate:2.0
+---------------------- 
+Home Price : 25000.0
+Down Payment : 1200.0
+Loan Term :21.22
+Interest Rate:2.0
+---------------------- 
+Home Price : 12000.0
+Down Payment : 10.0
+Loan Term :0.0
+Interest Rate:2.0
+---------------------- 
+Home Price : 12000.0
+Down Payment : 1000.0
+Loan Term :12.13
+Interest Rate:2.0

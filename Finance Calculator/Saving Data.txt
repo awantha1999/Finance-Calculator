@@ -1,0 +1,13 @@
+---------------------- 
+Capital :45000.0
+Rate : :2.0
+Period :2.0
+Monthly Addition :250.0
+Future Value :52951.34
+
+---------------------- 
+Capital :125000.0
+Rate : :2.0
+Period :1.0
+Monthly Addition :1200.0
+Future Value :142055.78
